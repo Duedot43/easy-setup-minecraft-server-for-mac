@@ -1,4 +1,4 @@
-Run the program and select an option this program run things internally so it installs nothing on your computer so it is completely portable this program automadicly updates itself and Minecraft you can add pluginsand extra world files via the menu to check for updates just click the update.py atlas it should update it for you have fun!! (Btw the ngrok does not work yet so click no at the prompt it will open server .prop modify it if you want
+Run the program and select an option this program run things internally so it installs nothing on your computer so it is completely portable this program automadicly updates itself and Minecraft you can add pluginsand extra world files via the menu to check for updates just click the update.py atlas it should update it for you have fun!! (Btw the ngrok does not work yet so click no at the prompt it will open server .prop modify it if you want oh and one more thing the update alis is at the moment broken so just right click the app click show app contens  and go to contens resorces then run update.py that is in that folder
 
 
 
